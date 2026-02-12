@@ -1,0 +1,9 @@
+
+.idea/
+.vscode/
+.DS_Store
+__pycache__
+.env
+.claude/
+.trae/
+.kiro/
