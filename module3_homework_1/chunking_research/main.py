@@ -156,6 +156,7 @@ def main():
 
     # 加载本地文件
     documents = SimpleDirectoryReader("data_files").load_data()
+    # documents = SimpleDirectoryReader("C:\\Users\\86157\Desktop\\github_files\\jike_ai_engineer_training_homeworks_whw\\module3_homework_1\\data_files").load_data()
 
     # 定义具体问题的标准答案
     question = "鲁迅怎么评价史记的？"
